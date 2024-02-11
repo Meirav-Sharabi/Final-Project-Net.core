@@ -1,0 +1,57 @@
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.service.BL.deps.json
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.service.BL.dll
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.service.BL.pdb
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.core.dll
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.data.dll
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.service.DAL.dll
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.service.DAL.pdb
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.core.pdb
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.data.pdb
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.csproj.AssemblyReference.cache
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.AssemblyInfoInputs.cache
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.AssemblyInfo.cs
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.csproj.CoreCompileInputs.cache
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.csproj.CopyComplete
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.dll
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\refint\Weight_Watchers.service.BL.dll
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.pdb
+F:\‏‏תיקיה חדשה (2)\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\ref\Weight_Watchers.service.BL.dll
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.service.BL.deps.json
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.service.BL.dll
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.service.BL.pdb
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.core.dll
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.data.dll
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.service.DAL.dll
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.service.DAL.pdb
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.core.pdb
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.data.pdb
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.AssemblyInfo.cs
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.csproj.CopyComplete
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.dll
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\refint\Weight_Watchers.service.BL.dll
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.pdb
+C:\Users\User\Desktop\‏‏הכי מעודכן - עותק\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\ref\Weight_Watchers.service.BL.dll
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.service.BL.deps.json
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.service.BL.dll
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.service.BL.pdb
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.core.dll
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.data.dll
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.service.DAL.dll
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.service.DAL.pdb
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.core.pdb
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\bin\Debug\net6.0\Weight_Watchers.data.pdb
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.AssemblyInfo.cs
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.csproj.CopyComplete
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.dll
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\refint\Weight_Watchers.service.BL.dll
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\Weight_Watchers.service.BL.pdb
+Y:\Groups\Group_2\שרעבי  מירב\סופי להעלות לגיט\Project-Net.core\WeightWatchers.service.BL\obj\Debug\net6.0\ref\Weight_Watchers.service.BL.dll
